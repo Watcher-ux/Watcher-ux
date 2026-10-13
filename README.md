@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 # Hi, I'm Ansh 👋<br><br>Integrated M.Tech student in Computational & Data Science at VIT Bhopal, India. I work with Python, SQL and statistical modeling, mostly on time-series and prediction problems. I'm a Research Consultant on WorldQuant's BRAIN platform, where I design and test quantitative signals. I'm looking for internships and research opportunities in ML, data science and quantitative research.<br><br>- 🔭 Currently working on: an independent trading-systems project<br>- 🌱 Currently learning: systems design and quant finance fundamentals<br>- 📫 Reach me: [LinkedIn](https://linkedin.com/in/ansh-choubey)
 
 
